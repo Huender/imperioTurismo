@@ -1,0 +1,5 @@
+imperioturismo_sistema:
+    resource: "@ImperioturismoSistemaBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
